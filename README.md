@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/holomind_banner.png" alt="HoloMind Project Banner" width="100%"/>
 
-  <h1>HoloMind v19 — Turbo Edition</h1>
+  <h1>HoloMind</h1>
   <p>Advanced AI Companion & Cognitive Memory Engine</p>
 
   <p>
