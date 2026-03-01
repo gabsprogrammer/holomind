@@ -52,7 +52,7 @@ A infraestrutura inteira foi modulada para suportar controle de concorrência ma
 ## ⚙️ Como Executar Localmente
 
 ### 1. Inicializar o Backend (Node.js)
-Este repositório está pronto para ser testado através do seu servidor REST. **Nota:** *As credenciais locais sensíveis como senhas e Tokens de WhatsApp do autor foram devidamente sanitizadas via `.gitignore` e placeholders para segurança.*
+Este repositório está pronto para ser testado através do seu servidor REST.
 
 ```bash
 cd backend
