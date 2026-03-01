@@ -70,7 +70,7 @@ python main.py
 
 Sua webcam ligará e os pontos de rastreamento gestual (dedo indicador) comandarão o painel no ar. Navegue apontando para os *nós de ideias*.
 
-## 👨‍💻 O Engenheiro Cog-Vision
+## dev
 
 **Gabriel Santana**  
 Desenvolvedor Fullstack | [GitHub](https://github.com/gabsprogrammer) | [LinkedIn](https://linkedin.com)
