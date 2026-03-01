@@ -30,6 +30,18 @@ Nesta arquitetura **Turbo Edition v19**, aplicamos micro-otimizações profundas
   - Uso de matrizes aditivas no `cv2.convertScaleAbs` substituindo floats caros por manipulações de bitmaps ultrarrápidas (`uint8`).
 - **Engenharia de Memória Contextual:** Motor inteligente que indexa conversas e traça relações conceituais construindo dinamicamente *clusters* distribuídos sobre tópicos conversacionais ao vivo com usuários.
 
+## 📸 Galeria & Interface em Ação
+
+Abaixo estão capturas reais do sistema em execução, exibindo as topologias de memória e o rastreamento gestual (dedos guiando o cursor 3D) em tempo real via Webcam com overlay interativo:
+
+<div align="center">
+  <img src="docs/holomind_screenshot1.png" alt="HoloMind Interface - Modo Centralizado" width="80%"/>
+  <br><i>Navegação 3D baseada em gestos interagindo com nós de conhecimento.</i><br><br>
+  
+  <img src="docs/holomind_screenshot2.png" alt="HoloMind Interface - Conexões" width="80%"/>
+  <br><i>Detecção de Hand-Tracking (MediaPipe) em uso no ambiente real.</i>
+</div>
+
 ## 📂 Arquitetura Técnica & Estrutura
 
 - `main.py` e `memory_bridge.py`: Core do sistema cliente 3D e renderização gráfica interativa *Air-Touch*.
