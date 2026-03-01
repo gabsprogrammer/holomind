@@ -1,0 +1,6 @@
+﻿node_modules/
+auth/
+.env
+data/*.bak
+data/media/
+data/voice/
